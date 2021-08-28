@@ -19,8 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              My big brother <span className="purple">Kevork</span> is the main
-              reason how I'm now he motivated me about web development I
+              My big brother 👋 <span className="purple">Kevork</span> is the
+              main reason how I'm now he motivated me about web development I
               suddenly fell in love with programming and I have at least learn
               something, I think… 🤷‍♂️
               <br />
